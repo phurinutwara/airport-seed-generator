@@ -4797,7 +4797,6 @@
 {code:`NFL`,name:`Fallon Naval Air Station`,country_code:`US`,timezone:`Europe/Zurich`,created_at: new Date(),},
 {code:`NFO`,name:`Mata'aho Airport`,country_code:`TO`,timezone:`Pacific/Wallis`,created_at: new Date(),},
 {code:`NGA`,name:`Young Airport`,country_code:`AU`,timezone:`Australia/Sydney`,created_at: new Date(),},
-{code:``,name:``,country_code:`AU`,timezone:`#N/A`,created_at: new Date(),},
 {code:`NGB`,name:`Ningbo Lishe International Airport`,country_code:`CN`,timezone:`Asia/Shanghai`,created_at: new Date(),},
 {code:`NGD`,name:`Captain Auguste George Airport`,country_code:`VG`,timezone:`America/Tortola`,created_at: new Date(),},
 {code:`NGE`,name:`N'Gaoundéré Airport`,country_code:`CM`,timezone:`Africa/Ndjamena`,created_at: new Date(),},
