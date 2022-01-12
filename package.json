@@ -1,0 +1,10 @@
+{
+  "name": "airport-seed-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "phurinutw",
+  "license": "MIT",
+  "dependencies": {
+    "fast-csv": "^4.3.6"
+  }
+}
