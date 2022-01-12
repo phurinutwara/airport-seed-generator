@@ -5,6 +5,6 @@
   "author": "phurinutw",
   "license": "MIT",
   "dependencies": {
-    "fast-csv": "^4.3.6"
+    "csv-parser": "^3.0.0"
   }
 }
